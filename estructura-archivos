@@ -1,0 +1,5 @@
+Los archivos HTML se encuentran en web/templates
+Todo archivo para el front que no sean HTML están en web/static, si es necesario incluir un tipo de archivo que no tiene carpeta propia, se creará la carpeta
+
+Para saber como funciona el framework en si y la estructura de archivos .py es muchísimo más práctico leerse la docu que explicarlo en este archivo,
+dejo la docu: https://docs.djangoproject.com/en/4.0/
