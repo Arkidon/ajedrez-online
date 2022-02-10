@@ -1,0 +1,3 @@
+For JavaScript use camelCase for functions and variables and UPPER_SNAKE_CASE for constants
+For HTML classes use BEM naming
+For Python use the standard naming convention described in PEP 8
